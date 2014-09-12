@@ -1,0 +1,66 @@
+.headerBlue {
+   text-shadow: 0 1px 0 #528FBE, 0 -1px 0 #528FBE, 1px 0 0 #528FBE, -1px 0 0 #528FBE;
+   color: white;
+   margin: 0px;
+   padding: 0px;
+   text-align: right;
+}
+
+h1 {
+	
+	margin: 0px;
+    padding: 0px;
+    font-family: 'lato';
+
+
+}
+
+.blue1{
+
+	color: #528FBE;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    margin: 0px;
+    padding: 0px;
+    
+    background-color: #528FBE; //Modern Browsers
+}
+
+li {
+
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+
+	font-family: 'roboto';
+	text-transform: uppercase;
+
+}
+
+.nav>li>a {
+	padding:0px;
+	margin: 
+}
+.nav>li>a:hover, .nav>li>a:focus {
+text-decoration: underline;
+background-color: white;
+
+}
+
+@media (min-width: 960px){
+	.master-container{
+			max-width: 960px;
+			min-width: 960px;
+			/*min-height: 220px; my change*/
+			margin: 0 auto;
+			padding-left: 20px;
+			padding-right: 20px;
+			
+		}
+}
