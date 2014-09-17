@@ -16,4 +16,13 @@ class PagesController extends BaseController {
 	{
 		return View::make('about');
 	}
+
+	public function reel()
+	{
+		return View::make('reel');
+	}
+	public function contact()
+	{
+		return View::make('contact');
+	}
 }

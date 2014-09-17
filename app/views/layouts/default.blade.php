@@ -22,21 +22,23 @@
   </head>
   <body>
     
-      <div class="master-container">
-          
-          <h5 class = "blue1" style="text-align:right;margin:0px;padding:0px;">Director</h5>
-          <div class="headerBlue">
+        <div class = "container-fluid">
+          <div class = "header" >
             
-            <h1>Steven Calcote</h1>
-            <hr />
+            <h5 class = "blue1" style="text-align:right;margin:0px;padding:0px;">Director</h5>
+            <div class="headerBlue">
+              
+              <h1>Steven Calcote</h1>
+              <hr />
+              </div>
+            
           </div>
-
 
           
 
     <div class="container-fluid" style="margin-top:20px;">
       <div class="row">
-        <div class="col-sm-3 col-md-1 sidebar">
+        <div class="col-md-1 sidebar">
           <ul class="nav nav-sidebar">
             <li><a href="#">About</a></li>
             <li><a href="#">Reel</a></li>
@@ -49,22 +51,22 @@
       </div>
     </div>
 
-    </div>
+    
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
 
-
+    </div>
 
   </body>
 
   <footer>
-    <div class="master-container">
-      
-      @yield('footer')
-
-    </div>
+    
+      <div class ="container-fluid">
+        @yield('footer')
+      </div>
+    
   
   </footer>
 
