@@ -40,9 +40,9 @@
       <div class="row">
         <div class="col-md-1 sidebar">
           <ul class="nav nav-sidebar">
-            <li><a href="#">About</a></li>
-            <li><a href="#">Reel</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="about">About</a></li>
+            <li><a href="reel">Reel</a></li>
+            <li><a href="contact">Contact</a></li>
           </ul>
         </div>
 
