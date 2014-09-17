@@ -47,7 +47,7 @@
 
   		<hr/>
   		<p class = "blue1" style="text-transform:none;text-align:left;margin-top:20px;">Steven Calcote is an award-winning filmaker and commercial director</p>
-  		<p class = "blue1" style="text-transform:none;text-align:left;margin-top:90px;">&copy; 2014 Steven Calcote</p>
+  		<p class = "blue1" style="text-transform:none;text-align:left;margin-top:70px;">&copy; 2014 Steven Calcote</p>
 
 
 	@stop

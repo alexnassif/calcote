@@ -3,8 +3,26 @@
 @section('content')
 
 	<div class="col-md-3">
-          <h5>Steven Calcote</h5>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+		<div class = "blue1">
+          <h5 style = "margin-top:0px;"><b>Steven Calcote</b></h5>
+          <p>Steven Calcote is an award-winning film-
+         	 maker who has created award-winning film,
+         	 television, commercial, and web projects 
+         	 for such clients as Sony pictures, Disney, BBC
+         	 America, Nickelodeon, HBO, AT&T, Industrial
+         	 Light & Magic, Sega, Electronic Arts, the
+         	 National Hockey League, Dimension Films,
+         	 Boeing, Spike TV, MTV, Nexon, Intel and
+         	 Tokyopop.
+         	 His recent directing work includes high-
+         	 energy television pilot "The 5th Hour" for
+         	 Nickelodeon, a superhero-infused series of 
+         	 television commercials for the National
+         	 Hockey League, an MTV music video for U.S.
+         	 teen sensation Ryan Beatty's "Hey
+         	 L.A.", an action-filled online miniseries for the 
+         	 NBA to engage millions of youth across Asia, </p>
+         </div>
     </div>
     <div class="col-md-2"></div>
     <div class="col-md-6" style="margin-bottom:20px;">
