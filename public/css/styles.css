@@ -97,11 +97,21 @@ background-color: white;
 }
 .thumbnail_image{
 	
-	border: 1px solid #528FBE;
+	border: 2px solid #528FBE;
 	
 }
 
+.thumbnail {
+display: block;
+padding: 4px;
+margin-bottom: 20px;
+line-height: 1.42857143;
+background-color: #fff;
+border: 0px;
+border-radius: 4px;
+transition: all .2s ease-in-out;
 
+}
 /*@media (min-width: 960px){
 	.master-container{
 			max-width: 960px;
