@@ -4,11 +4,11 @@
 
 	<div class="col-md-3">
     <div class="blue1">
-      <h5 style="margin-top:0px"><b>FOR GENERAL INQUIRIES</b></h5>
-      <p style="text-transform:lowercase;">Steven@StevenCalcote.com</p>
+      <h5 style="margin-top:0px"><b></b></h5>
+      <p style="text-transform:lowercase;"></p>
       <br>
-      <p><b>Phone</b></p>
-      <p>(323) 555-1212</p>
+      <p><b></b></p>
+      <p></p>
     </div>  
   </div>
   
