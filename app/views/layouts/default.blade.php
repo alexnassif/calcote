@@ -14,11 +14,31 @@
 
 <!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script type="text/JavaScript">
+
+      function change(s){
+        var image = document.getElementById('pic');
+
+        if(s == 1)
+          image.src = "images/calcote_photo_001.png";
+        else if(s == 2)
+          image.src = "images/calcote_photo_002.png";
+        else if(s == 3)
+          image.src = "images/calcote_photo_003.png";
+        else if(s == 4)
+          image.src = "images/calcote_photo_004.png";
+        else 
+          image.src = "images/calcote_photo_005.png";
+
+
+      }
+    </script>
 
     <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
     
     <link rel="stylesheet" href="{{asset('css/styles.css')}}">
+    
   </head>
   <body>
     

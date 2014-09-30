@@ -16,19 +16,19 @@
 	    <div style="height:90px;width:90px;border: 1px solid #528FBE;margin-top:18px;margin-bottom:20px;">
 	    </div>-->
 	    <a href="#" class="thumbnail">
-      		<img src="images/calcote_photo_001.png" class= "thumbnail_image" alt="...">
+      		<img src="images/calcote_photo_001.png" class= "thumbnail_image" alt="..." onclick="change(1);">
     	</a>
 	    <a href="#" class="thumbnail">
-      		<img src="images/calcote_photo_002.png" class= "thumbnail_image" alt="...">
+      		<img src="images/calcote_photo_002.png" class= "thumbnail_image" alt="..." onclick="change(2);">
     	</a>
 	    <a href="#" class="thumbnail">
-      		<img src="images/calcote_photo_003.png" class= "thumbnail_image" alt="...">
+      		<img src="images/calcote_photo_003.png" class= "thumbnail_image" alt="..." onclick="change(3);">
     	</a>
 	    <a href="#" class="thumbnail">
-      		<img src="images/calcote_photo_004.png" class= "thumbnail_image" alt="...">
+      		<img src="images/calcote_photo_004.png" class= "thumbnail_image" alt="..." onclick="change(4);">
     	</a>
 	    <a href="#" class="thumbnail">
-      		<img src="images/calcote_photo_005.png" class= "thumbnail_image" alt="...">
+      		<img src="images/calcote_photo_005.png" class= "thumbnail_image" alt="..." onclick="change(5);">
     	</a>
    
   	</div>
@@ -38,7 +38,7 @@
 
   	<div class="col-md-6">
   		<!-- <div style="margin-left:340px;width:768px;height:520px;border: 1px solid #528FBE;float:right;"></div>-->
-  		<img src="images/calcote_about_page.png" class="about_image" alt="index"></img>
+  		<img src="images/calcote_about_page.png" class="about_image" alt="index" id="pic"></img>
   	</div>
 
   	@stop
